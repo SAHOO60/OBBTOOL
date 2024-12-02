@@ -11,9 +11,6 @@ pkg upgrade
 pkg install git
 ```
 ```
-Clone this repository
-```
-```
 git clone https://github.com/SAHOO60/pubgpaster.git
 ```
 ```

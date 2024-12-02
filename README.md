@@ -14,10 +14,10 @@ pkg install git
 Clone this repository
 ```
 ```
-git clone https://github.com/SAHOO60/OBBTOOL.git
+git clone https://github.com/SAHOO60/pubgpaster.git
 ```
 ```
-cd OBBTOOL
+cd pubgpaster
 ```
 ```
 chmod +x setup
@@ -27,5 +27,5 @@ bash setup
 ```
 ```
 ls
-cd OBBTOOL
+cd pubgpaster
 bash setup

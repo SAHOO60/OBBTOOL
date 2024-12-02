@@ -17,9 +17,6 @@ Clone this repository
 git clone https://github.com/SAHOO60/pubgpaster.git
 ```
 ```
-5. Open ThePAK directory and run setup.
-```
-```
 cd Pubg-paster
 ```
 ```
